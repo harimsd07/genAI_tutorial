@@ -143,4 +143,3 @@ By the end, you'll have the building blocks for a **production-quality AI assist
 5. Keep `cheat_sheet.md` open in a second window as quick reference.
 
 Let's begin → Open [01_setup.md](01_setup.md)
-# genAI_tutorial
